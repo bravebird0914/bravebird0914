@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- プロフィール README -->
+<h1 align="center">Hi, I'm bravebird 👋</h1>
 
-<!--
-**bravebird0914/bravebird0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Graduate student / NLP enthusiast<br>
+  shizuoka, Japan
+</p>
 
-Here are some ideas to get you started:
+### 🔧 Tech
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=bravebird&show_icons=true" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bravebird" height="160">
+</p>
+
+### 📫 Contact
+- Mail: yyoshida@kanolab.net  
+- Web: https://bravebird-portfolio.vercel.app/
