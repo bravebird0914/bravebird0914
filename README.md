@@ -1,6 +1,6 @@
 <!-- ===================== バナー ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:1E90FF&height=160&section=header&text=BraveBird&fontColor=ffffff&fontSize=38&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:1E90FF&height=160&section=header&text=bravebird&fontColor=ffffff&fontSize=38&fontAlignY=35"/>
 </p>
 
 <!-- ===================== タイピングアニメーション ===================== -->
@@ -48,5 +48,5 @@
 
 <!-- ===================== フッター ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEFA&height=120&section=footer&text=Keep%20flying%20BraveBird&fontColor=ffffff&fontSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEFA&height=120&section=footer&text=Keep%20flying%20bravebird&fontColor=ffffff&fontSize=20"/>
 </p>
