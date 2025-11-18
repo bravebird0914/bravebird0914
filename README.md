@@ -28,10 +28,11 @@
 ---
 
 ## Skyline（外部リンク）
-- ポートフォリオ：  
+- ポートフォリオ
   - https://bravebird0914.github.io/  
   - https://bravebird-portfolio.vercel.app/
-- メール： [yyoshida@kanolab.net](mailto:yyoshida@kanolab.net)
+- メール
+  - [yyoshida@kanolab.net](mailto:yyoshida@kanolab.net)
 
 ---
 
