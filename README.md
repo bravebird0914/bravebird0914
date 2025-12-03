@@ -5,7 +5,7 @@
 
 <!-- ===================== タイピングアニメーション ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=1E90FF&center=true&vCenter=true&width=680&lines=bravebird;Shizuoka+University+%7C+Faculty+of+Informatics;NLP+%28Natural+Language+Processing%29;Building+%22hayabusa-ai%22+%28buzzer-quiz+AI%29" alt="typing intro"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=1E90FF&center=true&vCenter=true&width=680&lines=bravebird;Shizuoka+University+%7C+Faculty+of+Informatics;NLP+%28Natural+Language+Processing%29;Building+%22hayabusa%22+%28buzzer-quiz+AI%29" alt="typing intro"/>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 - **NLP（自然言語処理）**
 
 ## 現在のプロジェクト
-- 早押しクイズ特化型AI **「hayabusa-ai」** の開発
+- 早押しクイズ特化型AI **「hayabusa」** の開発
 
 ## 技術スタック
 <p>
